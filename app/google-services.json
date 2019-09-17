@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579423393756",
+    "firebase_url": "https://whatsapptutorial-5aaf7.firebaseio.com",
+    "project_id": "whatsapptutorial-5aaf7",
+    "storage_bucket": "whatsapptutorial-5aaf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579423393756:android:958933eb5e55f76bce2119",
+        "android_client_info": {
+          "package_name": "com.example.whatsapptutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579423393756-nn6qubmtn5tn4db6mc7br9no5mvr1pn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapptutorial",
+            "certificate_hash": "1a55ba6bd963bb636dde1858dedf05c95371cbc6"
+          }
+        },
+        {
+          "client_id": "579423393756-5nr2hr63r8ckmg90i7os1iilkc4le71i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_feF2a7HApU6VCq08mFBf8Q7mmEtsbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579423393756-5nr2hr63r8ckmg90i7os1iilkc4le71i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
