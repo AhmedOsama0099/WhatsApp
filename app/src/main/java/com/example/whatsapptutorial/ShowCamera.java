@@ -35,6 +35,7 @@ public class ShowCamera extends SurfaceView implements SurfaceHolder.Callback {
         }*/
         Camera.Parameters parems=mCamera.getParameters();
         if(this.getResources().getConfiguration().orientation!= Configuration.ORIENTATION_LANDSCAPE){
+
             parems.set("orientation","portrait");
             mCamera.setDisplayOrientation(90);
             parems.setRotation(90);

@@ -56,11 +56,11 @@ public class HomePage extends AppCompatActivity {
             public void onTabSelected(TabLayout.Tab tab) {
                 if(tab.getPosition()==0){
                     tab.getIcon().setColorFilter(Color.parseColor("#FFFFFF"), PorterDuff.Mode.SRC_IN);
-                    getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
+                  //  getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
                 }
-                else
-                    getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
+                //  else
+                    //getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
 
 
